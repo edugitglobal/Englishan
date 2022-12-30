@@ -1,3 +1,4 @@
+
 A Phrase is a combination of two or more words that make sense but do not complete sense. A phrase cannot stand alone as a clause or a sentence because it contains neither a subject nor a verb. Usually, phrases are used as a component of clauses. 
 A phrase by itself cannot convey a complete thought but it strengthens a sentence to become meaningful. There can be more than one phrase in a sentence and phrase. And when a smaller phrase appears inside a larger one it is called a Nesting phrase. For example, 
 •	He told me a sad story. 
@@ -14,6 +15,7 @@ Phrases functions as a noun, adjective, verb, preposition, or an adverb in a sen
 	Participle phrase 
 	Absolute phrase 
 	Appositive phrase 
+# https://englishan.com/
 Noun phrase 
 A group of related words that functions as a noun in a sentence. It contains a noun and other associated words (modifiers and determiners) that give us more information about a noun. And it acts as a subject an object or a complement in a sentence.
 For example, 
