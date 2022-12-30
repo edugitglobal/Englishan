@@ -15,7 +15,7 @@ Phrases functions as a noun, adjective, verb, preposition, or an adverb in a sen
 	Participle phrase 
 	Absolute phrase 
 	Appositive phrase 
-# https://englishan.com/
+# https://englishan.com/types-of-phrases
 Noun phrase 
 A group of related words that functions as a noun in a sentence. It contains a noun and other associated words (modifiers and determiners) that give us more information about a noun. And it acts as a subject an object or a complement in a sentence.
 For example, 
