@@ -1,2 +1,0 @@
-# Englishan
-https://englishan.com/
